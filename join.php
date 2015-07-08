@@ -100,7 +100,7 @@ if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
     </h4>
     </div>
     <div class="col-lg-6" style="color:black;border-left:solid #333">
-   <form class="form-horizontal" role="form" method="post" action="index.php">
+   <form class="form-horizontal" role="form" method="post" action="join.php">
     <div class="form-group">
         <label for="name" class="col-sm-2 control-label">Name</label>
         <div class="col-sm-10">
