@@ -53,7 +53,7 @@ if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
-      <link href="css/cover.css" rel="stylesheet">
+      <link href="css/style.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -68,7 +68,7 @@ if (!$errName && !$errEmail && !$errMessage && !$errHuman) {
       <div class="container-fluid" style="padding-top:10px;background-color:#333">
           <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                <img src="img/acm-logo.png" class="img-progressive">
+               <img src="img/logoblack.png" class="img-progressive" width="437" height="103">
             </div>
             <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12" style="padding-top:25px;align:right;" >
 			
