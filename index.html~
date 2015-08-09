@@ -31,9 +31,17 @@
      </div>
       <div class="container">
           <div class="row" style="margin-top:40px;">
-              <div class="col-lg-5  col-md-5 hidden-xs hidden-sm">
+              <div class="col-lg-5  col-md-5 hidden-xs hidden-sm" style="@media (min-width: @screen-md-min) {height:1000px;}">
 				<div class="col-lg-12" style="padding-top:10px;">
 					<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+						  <!-- Indicators -->
+						  <!--<ol class="carousel-indicators">
+							<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+							<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+							<!--<li data-target="#carousel-example-generic" data-slide-to="2"></li>-->
+						  <!--</ol>-->
+
+						  <!-- Wrapper for slides -->
 						  <div class="carousel-inner" role="listbox">
 							<div class="item active">
 							  <img src="img/1.png"  >
@@ -53,7 +61,7 @@
 						</div>
 				
 				</div>
-                 
+                  <!--<h1>"We are visionaries, dreamers, software engineers & cyberpunks, working together to spread knowledge"</h1>-->
               </div>
               <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 ">
                   <div class="row">
